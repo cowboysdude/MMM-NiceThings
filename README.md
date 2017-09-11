@@ -9,7 +9,7 @@ Why input your own nice sayings in.. when you can just get one randomly!   It's 
 
     #CONFIG.JS
 
-     {
+                 {
 		  module: 'MMM-NiceThings',
 		  position: 'lower_third'
 		  },
