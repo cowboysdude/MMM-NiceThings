@@ -62,8 +62,7 @@ Module.register("MMM-NiceThings", {
 
     processNice: function(data) {
         this.today = data.Today;
-        this.nice = data; 
-    console.log(this.nice);
+        this.nice = data;
         this.loaded = true;
     },
 
